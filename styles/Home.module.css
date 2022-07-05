@@ -107,7 +107,11 @@
   height: 1em;
   margin-left: 0.5rem;
 }
-
+.chartContainer {
+  background-color: black;
+  width: 100%;
+  height: fit-content;
+}
 @media (max-width: 600px) {
   .grid {
     width: 100%;
